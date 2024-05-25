@@ -1,0 +1,46 @@
+Appliance_1,Appliance_2,p_value
+Fans,Lights,1.0
+Fans,Freezes,1.0
+Fans,Microwave Oven,1.0
+Fans,Geyser,1.0
+Fans,AC,1.0
+Fans,Washing Machine,1.0
+Fans,TV,1.0
+Fans,PC,1.0
+Fans,Induction Stove,1.0
+Lights,Freezes,1.0
+Lights,Microwave Oven,1.0
+Lights,Geyser,1.0
+Lights,AC,1.0
+Lights,Washing Machine,1.0
+Lights,TV,1.0
+Lights,PC,1.0
+Lights,Induction Stove,1.0
+Freezes,Microwave Oven,1.0
+Freezes,Geyser,1.0
+Freezes,AC,1.0
+Freezes,Washing Machine,1.0
+Freezes,TV,1.0
+Freezes,PC,1.0
+Freezes,Induction Stove,1.0
+Microwave Oven,Geyser,1.0
+Microwave Oven,AC,1.0
+Microwave Oven,Washing Machine,1.0
+Microwave Oven,TV,1.0
+Microwave Oven,PC,1.0
+Microwave Oven,Induction Stove,1.0
+Geyser,AC,1.0
+Geyser,Washing Machine,1.0
+Geyser,TV,1.0
+Geyser,PC,1.0
+Geyser,Induction Stove,1.0
+AC,Washing Machine,1.0
+AC,TV,1.0
+AC,PC,1.0
+AC,Induction Stove,1.0
+Washing Machine,TV,1.0
+Washing Machine,PC,1.0
+Washing Machine,Induction Stove,1.0
+TV,PC,1.0
+TV,Induction Stove,1.0
+PC,Induction Stove,1.0
